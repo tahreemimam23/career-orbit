@@ -1,0 +1,1 @@
+"CareerOrbit - AI-powered job portal and career assistant."
